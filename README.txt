@@ -1,1 +1,1 @@
-hello
+https://xuanwo.org/2015/03/26/hexo-intor/
